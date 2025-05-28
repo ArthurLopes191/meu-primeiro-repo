@@ -9,3 +9,11 @@ Repositório para praticar os básicos do Git e GitHub
 | Arthur Lopes| ArthurLopes191 | Estudante de Análise e Desenvolvimento de Sistemas pela ULBRA |
 | Fernando Antonio | nandoant | Estudante ADS e gosto de academia e animes |
 | João Victor | JoaoVictork | Estudante de Interdisciplinar em Ciência e Tecnologia pela UFMA |
+
+
+## Projetos
+
+- [Projeto-bizar.ro](bizar.ro)
+- [Projeto Fantansia 1](https://www.facebook.com/)
+- [CRUD-Spring](https://github.com/JoaoVictork/crud-spring)
+- [HVU](https://gestaohvu.ufape.edu.br/)
