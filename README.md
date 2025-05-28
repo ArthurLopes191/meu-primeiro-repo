@@ -13,5 +13,6 @@ Repositório para praticar os básicos do Git e GitHub
 
 ## Projetos
 
-![Projeto-bizar.ro](bizar.ro)
-![Projeto Fantansia 1](https://www.facebook.com/)
+[Projeto-bizar.ro](bizar.ro)
+[Projeto Fantansia 1](https://www.facebook.com/)
+[CRUD-Spring](https://github.com/JoaoVictork/crud-spring)
