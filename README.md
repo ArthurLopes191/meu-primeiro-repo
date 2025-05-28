@@ -17,3 +17,5 @@ Repositório para praticar os básicos do Git e GitHub
 - [Projeto Fantansia 1](https://www.facebook.com/)
 - [CRUD-Spring](https://github.com/JoaoVictork/crud-spring)
 - [HVU](https://gestaohvu.ufape.edu.br/)
+
+## Outros
